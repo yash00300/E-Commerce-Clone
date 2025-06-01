@@ -59,7 +59,6 @@ E-Commerce-Clone/
 - It's for educational and portfolio purposes only.
 
 ## ✍️ Author
-  Yash – ## ✍️ Author
-
+ 
 - **Yash** – [GitHub Profile](https://github.com/yash00300)
 
